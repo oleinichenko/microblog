@@ -30,11 +30,13 @@ const [error, setError] = useState(null);
 
 
 
+
   let {
      email, first_name, last_name, avatar
     
   }=items.data ||{};
   
+
 
 
 
