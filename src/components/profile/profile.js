@@ -47,7 +47,7 @@ const [error, setError] = useState(null);
   } else {
     return (
        <div className="d-flex flex-column  text-center">
-         {/* <img src={avatar} alt="avatar" />  */}
+         <img src={avatar} alt="avatar" /> 
          <p>{` Name: ${first_name} ${last_name}`}</p>
          <p>{`Email: ${email}`}</p>
          
