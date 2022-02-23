@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/microblog/static/css/main.74545936.css",
-    "main.js": "/microblog/static/js/main.c481f87d.js",
+    "main.js": "/microblog/static/js/main.c3b3a493.js",
     "index.html": "/microblog/index.html",
     "main.74545936.css.map": "/microblog/static/css/main.74545936.css.map",
-    "main.c481f87d.js.map": "/microblog/static/js/main.c481f87d.js.map"
+    "main.c3b3a493.js.map": "/microblog/static/js/main.c3b3a493.js.map"
   },
   "entrypoints": [
     "static/css/main.74545936.css",
-    "static/js/main.c481f87d.js"
+    "static/js/main.c3b3a493.js"
   ]
 }
